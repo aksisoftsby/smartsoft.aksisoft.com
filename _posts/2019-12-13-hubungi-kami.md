@@ -31,4 +31,6 @@ Facebook : facebook.com/serviceflashrootandroidsurabaya
   
 Blogspot : servisandroidsby.blogspot.co.id
   
-Jl  Gebang Lor no 16 (nama counter Aachif Cell) *harap hubungi dulu sebelum kesana
+Jl  Gebang Lor no 16 (nama counter Aachif Cell) 
+
+*harap hubungi dulu sebelum kesana
