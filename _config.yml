@@ -1,6 +1,6 @@
 # Site settings
 title: Smartsoft Service SmartPhone 
-url: "https://blog.aksisoft.com"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+url: "https://smartsoft.aksisoft.com"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "/" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
