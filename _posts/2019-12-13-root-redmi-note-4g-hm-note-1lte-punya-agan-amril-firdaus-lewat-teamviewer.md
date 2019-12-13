@@ -17,7 +17,7 @@ tags:
 categories:
     - xiaomi
 permalink: >
-    /index.php/2016/10/06/root-redmi-note-4g-hm-note-1lte-punya-agan-amril-firdaus-lewat-teamviewer
+    /index.php/2016/10/06/root-redmi-note-4g
 image:
     feature: Screenshot_20161002-114050.jpg
 ---
