@@ -16,7 +16,12 @@ profile: Service Smartphone
 profile_links:
   Email: "mailto:admin@aksisoft.com"
   Facebook: "https://www.facebook.com/aksisoft/"
+  BlogAksisoft: "https://blog.aksisoft.com/"
   # You can add more profile links above, or edit _includes/sidebar.html 
+
+domainaksisoft: "https://aksisoft.com"
+nameaksisoft: "Aksisoft MEDIA : Jasa Pembuatan website, Android dan iOS"
+
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
